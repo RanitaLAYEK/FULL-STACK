@@ -1,0 +1,28 @@
+/*Tag selectors*/
+body {
+    background-color: beige;
+}
+
+/* img{
+    background-color: azure;
+} */
+
+/*class selectors*/
+
+.bacon{
+    background-color: azure;
+}
+
+.brocolli{
+    background-color: aqua;
+    border-radius: 100%;
+}
+
+/*ID selectors*/
+#heading{
+    background-color: brown;
+}
+
+img:hover{
+    background-color: gold;
+}
